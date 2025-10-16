@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackerazmi201&show_icons=true&locale=en" alt="hackerazmi201" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerazmi201&" alt="hackerazmi201" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=hackerazmi201&theme=leight&hide_border=false" /></p>
 
 <p align="center">
   <img src="https://github.com/hackerazmi201/hackerazmi201/blob/main/output/snake.svg?raw=true" alt="GitHub contribution snake" />
